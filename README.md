@@ -1,0 +1,2 @@
+# battlebuddy-legal
+privacy policy
